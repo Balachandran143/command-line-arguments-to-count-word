@@ -19,8 +19,8 @@ Anaconda - Python 3.7
 ### End of the program.
 ## PROGRAM:
 ```
-DEVELOPED BY:KRISHNARAJ D
-#REGISTER NO:22005130
+DEVELOPED BY: BALACHANDRAN S
+#REGISTER NO: 22006708
 import sys
 fp= open(sys.argv[1])
 data=fp.read()
